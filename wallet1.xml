@@ -5,7 +5,7 @@
  xmlns:gml="http://www.opengis.net/gml"
  xmlns:nhc="https://www.nhc.noaa.gov">
 <channel>
-<pubDate>Fri, 28 Jul 2023 12:11:55 GMT</pubDate>
+<pubDate>Fri, 28 Jul 2023 15:38:57 GMT</pubDate>
 <title>NHC Atlantic Wallet 1 - No current storm</title>
 <description>Advisories and graphics for NHC Atlantic Wallet 1</description>
 <link>https://www.nhc.noaa.gov/</link>
@@ -23,8 +23,8 @@
 </image>
 <item>
 <title>No current storm in NHC Atlantic Wallet 1</title>
-<description>No current storm in NHC AT1 as of Fri, 28 Jul 2023 12:11:55 GMT</description>
-<pubDate>Fri, 28 Jul 2023 12:11:55 GMT</pubDate>
+<description>No current storm in NHC AT1 as of Fri, 28 Jul 2023 15:38:57 GMT</description>
+<pubDate>Fri, 28 Jul 2023 15:38:57 GMT</pubDate>
 <link>https://www.nhc.noaa.gov/</link>
 <guid>https://www.nhc.noaa.gov/</guid>
 <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
